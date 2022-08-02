@@ -3,7 +3,7 @@ Japanese emotion corpus Tokushima Univ. A-2 Lab.
 データセット作成者：徳島大学，松本和幸（研究代表者）
 
 機械学習を用いた感情分析のために，Twitter，ブログ記事，対訳コーパスなどから収集した発話文テキストに対し，人手により感情ラベル（A,B,C,E)を付与し，データセット（感情タグ付き発話文コーパス）を構築しました。限定公開します。
-感情ラベルは以下の種類を定義しています。
+感情ラベルは以下の種類を定義しています。Cancel changes
 
 - A: Joy （喜び）
 - B: Surprise (驚き）
@@ -17,4 +17,7 @@ Japanese emotion corpus Tokushima Univ. A-2 Lab.
 ### 本データセットは研究目的のみの使用に限り利用可能です。 再配布は禁止させていてだきます。
 
 # 連絡先
-### 松本和幸 （徳島大学大学院社会産業理工学研究部准教授）
+### [松本和幸](matumoto@is.tokushima-u.ac.jp) （徳島大学大学院社会産業理工学研究部准教授）
+#### [Researchmap](https://researchmap.jp/read0156851)
+#### [Web page](https://www-a2.is.tokushima-u.ac.jp/research)
+
