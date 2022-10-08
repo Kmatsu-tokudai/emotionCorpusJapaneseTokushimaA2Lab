@@ -17,7 +17,7 @@ The following types of emotion labels are defined
 #### This dataset is available for research purposes only. Redistribution is prohibited.
 #### The compressed file is password protected, so please contact Matsumoto (contact information below) if you wish to use it.
 
-# 連絡先
+# Contact
 ### [Kazuyuki Matsumoto](matumoto@is.tokushima-u.ac.jp) （Associate Professor, Tokushima University）
 #### [Researchmap](https://researchmap.jp/read0156851)
 #### [Web page](https://www-a2.is.tokushima-u.ac.jp/research)
