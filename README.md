@@ -18,9 +18,9 @@ Japanese emotion corpus Tokushima Univ. A-2 Lab.
 #### 圧縮ファイルにはパスワードがかかっていますので，使用する際は，松本（下記連絡先）までご連絡ください。
 
 # 連絡先
-### [松本和幸](http://pub2.db.tokushima-u.ac.jp/ERD/person/174482/profile-ja.html) 
-#### 徳島大学大学院社会産業理工学研究部准教授）
-#### [メールアドレス] <matumoto@is.tokushima-u.ac.jp>
+### [松本和幸](http://pub2.db.tokushima-u.ac.jp/ERD/person/174482/profile-ja.html)
+#### 徳島大学大学院社会産業理工学研究部准教授
+#### [メールアドレス]<matumoto@is.tokushima-u.ac.jp>
 #### [Researchmap](https://researchmap.jp/read0156851)
 #### [Web page](https://www-a2.is.tokushima-u.ac.jp/research)
 
